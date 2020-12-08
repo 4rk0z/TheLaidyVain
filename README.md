@@ -21,16 +21,16 @@ arkoz
 
 od Biura Teleinformatyki CBA
 
-[0_PROLOG](TheLaidyVain/0%20Prolog/)
-[Zadanie 1](TheLaidyVain/1/)
-[Zadanie 2](TheLaidyVain/2/)
-[Zadanie 3](TheLaidyVain/3/)
-[Zadanie 4](TheLaidyVain/4/)
-[Zadanie 5](TheLaidyVain/5/)
-[Zadanie 6](TheLaidyVain/6/)
-[Zadanie 7](TheLaidyVain/7/)
-[Zadanie 8](TheLaidyVain/8/)
-[9_FINAŁ](TheLaidyVain/%20Finał/)
+|[0_PROLOG](TheLaidyVain/0%20Prolog/)|
+|[Zadanie 1](TheLaidyVain/1/)|
+|[Zadanie 2](TheLaidyVain/2/)|
+|[Zadanie 3](TheLaidyVain/3/)|
+|[Zadanie 4](TheLaidyVain/4/)|
+|[Zadanie 5](TheLaidyVain/5/)|
+|[Zadanie 6](TheLaidyVain/6/)|
+|[Zadanie 7](TheLaidyVain/7/)|
+|[Zadanie 8](TheLaidyVain/8/)|
+|[9_FINAŁ](TheLaidyVain/9%20Finał/)|
 
 
 
