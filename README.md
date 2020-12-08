@@ -19,8 +19,6 @@ arkoz
 
 
 
-od Biura Teleinformatyki CBA
-
 |[0_PROLOG](TheLaidyVain/0%20Prolog/)|
 |[Zadanie 1](TheLaidyVain/1/)|
 |[Zadanie 2](TheLaidyVain/2/)|
