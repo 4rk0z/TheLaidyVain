@@ -21,6 +21,6 @@ arkoz
 
 od Biura Teleinformatyki CBA
 
-[0 PROLOG](TheLaidyVain/0 Prolog/prolog.txt)|
+[0 PROLOG](TheLaidyVain/0 Prolog/)
 
 
