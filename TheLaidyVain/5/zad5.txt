@@ -1,0 +1,33 @@
+Po rozpakowaniu archiwum 'Zadanie 5.zip' otrzymujemy plik Liczby.txt
+Ponieważ nie znalazłem żadnych wskazówek (poza tą w nazwie pliku) zdecydowałem
+się zbadać kilka z nich. Kilka z rzędu okazało się być liczbami pierwszymi,
+inne nie. Okazało się, że w liczbach ukryty jest kod Morse'a.
+Liczby pierwsze to - , liczby złożone .
+
+
+Oględziny pliku przyniosły dodatkowe odkrycie
+
+$ xxd -g 1 sources/Liczby.txt
+00000000: 36 37 39 33 32 37 33 20 37 38 32 38 36 30 37 c2  6793273 7828607.
+00000010: a0 36 31 32 34 32 39 31 20 37 35 30 30 31 32 37  .6124291 7500127
+00000020: 20 32 37 31 34 30 35 37 c2 a0 35 33 30 31 30 34   2714057..530104
+00000030: 37 20 39 33 37 36 31 35 37 c2 a0 37 39 38 34 34  7 9376157..79844
+00000040: 33 33 c2 a0 37 30 34 34 35 35 33 20 38 33 39 35  33..7044553 8395
+00000050: 39 39 37 20 33 32 37 38 34 36 33 c2 a0 33 31 39  997 3278463..319
+00000060: 31 32 30 37 20 36 39 38 37 37 36 37 20 38 32 36  1207 6987767 826
+00000070: 39 31 34 31 c2 a0 31 32 38 31 31 33 31 20 33 33  9141..1281131 33
+00000080: 31 36 30 38 37 c2 a0 36 35 37 39 35 39 31 c2 a0  16087..6579591..
+00000090: 38 37 36 35 33 34 31 20 32 31 38 38 36 37 39 20  8765341 2188679
+000000a0: 32 33 37 36 31 35 39 c2 a0 38 39 33 38 33 38 31  2376159..8938381
+000000b0: 20 31 39 38 36 34 35 33 20 36 38 35 34 32 35 31   1986453 6854251
+000000c0: 20 37 32 30 38 31 32 39                           7208129
+
+Ustaliłem, że \xc2 rozdziela kolejne znaki alfabetu Morse'a a \xa0 to szum,
+mający utrudnić zadanie i przetwarzanie "szyfru"
+
+Po usunięciu szumu, zastąpieniu liczb ich odpowiednikami w kodzie Morse'a,
+rozdzieleniu na znaki, oraz zdekodowaniu otrzymujemy hasło do kolejnego zadania.
+
+$ python3 ./zad5.py 
+['--', '---', '-.', '-', '--.', '---', '--', '.', '.-.', '-.--']
+MONTGOMERY

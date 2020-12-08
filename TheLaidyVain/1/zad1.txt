@@ -1,0 +1,27 @@
+Po rozpakowaniu archiwum otrzymujemy plik Wykres.png
+Plik ten nie zawiera istotnych metadanych (exiftool, steganografia)
+
+Na wykresie widoczne są dwa punkty
+
+x1=-0.943765
+y1=-28.258342
+x2=0.765928
+y2=60.928691
+
+Podstawmy je do równania prostej przechodzącej przez w/w punkty
+(y-y1)(x2-x1)-(y2-y1)(x-x1)=0
+
+(y-(-28.258342))(0.765928-(-0.943765))-(60.928691-(-28.258342))(x-(-0.943765))=0
+
+https://www.wolframalpha.com/input/?i=(y-(-28.258342))(0.765928-(-0.943765))-(60.928691-(-28.258342))(x-(-0.943765))=0
+
+y≈52.1655 x + 20.9737
+
+Współrzędne GPS?
+
+https://www.google.pl/maps/@52.1655,20.9737,50m/data=!3m1!1e3?hl=pl
+
+Lotnisko Chopina w Warszawie. Na zdjęciach satelitarnych widoczny napis na pasie
+NO ENTRY
+
+Jest to hasło do zadania 2

@@ -1,0 +1,16 @@
+Po rozpakowaniu archiwum 'Zadanie 9.zip' otrzymujemy plik Wiki.txt
+w pliku znajduje się podpowiedź
+password = 'https://en.wikipedia.org/wiki/Montana_Highway_77'.split(';')[1].strip().upper()
+
+To końcowe zadanie  doprowadziło mnie do szewskiej pasji. Po wielu godzinach rozmyślań nad 
+Montana Highway 77 (MT 77) w końcu mnie olśniło 
+MT 77 = Mt 7,7 (Ewangelia wg św. Mateusza)
+
+Pozostało pobrać odpowiednią zawartość i wykonać program
+
+
+$ python3 ./zad9.py 
+SZUKAJCIE, A ZNAJDZIECIE
+
+
+Dziękuję za lekturę

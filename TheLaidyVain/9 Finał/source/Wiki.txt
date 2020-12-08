@@ -1,0 +1,1 @@
+password = 'https://en.wikipedia.org/wiki/Montana_Highway_77'.split(';')[1].strip().upper()

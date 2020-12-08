@@ -1,0 +1,16 @@
+W pliku graficznym znajduje się szyfrogram zapisany za pomocą czcionki Webdings.
+Po żmudnym dekodowaniu otrzymałem
+
+IB6SE9🏷OZ
+ZE9B9B🏷OS
+
+gdyby obrócić komunikat o 180' otrzymamy
+
+20'635981
+50'868632
+
+https://www.google.pl/maps/place/Pomnik+Henryka+Sienkiewicza+w+Kielcach/@50.868632,20.635981,54m/data=!3m1!1e3!4m5!3m4!1s0x471827921ff17e1d:0xd1f3a6214d66225e!8m2!3d50.8685999!4d20.63596?hl=pl
+
+Pomnik Henryka Sienkiewicza
+Na cokole pomnika napisano QUO VADIS
+Jest to hasło do kolejnego zadania

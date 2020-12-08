@@ -1,0 +1,32 @@
+Po rozpakowaniu archiwum otrzymujemy tylko niewyraźny fragment kodu
+umieszczony w pliku 'Litery.png'
+
+Po przepisaniu do bardziej czytelnej formy ustaliłem, że pierwszy szyfrogram
+zawiera dwie wielkie litery oraz spację. Przyjąłem, że mam do czynienia z anagramem.
+Założyłem także, że może być to imię i nazwisko (ze względu na duże litery).
+Po ręcznym dopasowaniu imienia na H (pasuje Henryk) dodaniu spacji oraz pierwszej
+litery nazwiska Z sprawa stała się prostsza. Wystarczy zauważyć że w Polsce nazwiska
+najczęściej kończą się na -ski -wski. Szukana fraza ma maskę 'Henryk Z****ski'
+Ustaliłem też, że drugi anagram może rozpoczynać się od wyrazu czwarty.
+postanowiłem napisać program, który może (lecz nie musi) pomóc odgadnąć anagramy.
+
+Napisałem program mający wspomóc mnie w rozwiązaniu anagramów
+Program zwrócił 744 dopasowań
+
+$ python3 zad7.py | wc -l
+744
+
+Po zbadaniu wyjścia programu wytypowałem anagramy
+
+Henryk Zygalski
+czwarty wiersz
+
+Podczas przeglądania zasobów wikipedii
+https://pl.wikipedia.org/wiki/Henryk_Zygalski
+w galerii natrafiłem na zdjęcie Pomnika trzech kryptoogów w Poznaniu
+https://pl.wikipedia.org/wiki/Pomnik_kryptologów_w_Poznaniu
+
+Wyszukałem zdjęcia pomnika w google wykonane od strony poświęconej Henrykowi
+Zygalskiemu. Pomnik pokryty jest inskrypcjami, hasłem do kolejnego zadania jest
+czwarty wiersz
+450830341763

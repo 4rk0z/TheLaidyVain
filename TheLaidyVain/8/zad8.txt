@@ -1,0 +1,15 @@
+Wskazówki są jasne.
+Należy złamać szyfrogram z pliku 'Wygenerowano za pomoc¥ programu Denemo.png'
+odpowiednio budując skalę
+
+Alfabet - ABCDEFGHIJKLMNOPRSTUVWYZ
+Początek skali - ces1
+
+$ python3 ./zad8.py
+THELADYVAINWASLOST
+
+Po kilku błędnych próbach (małe/wielkie litery) odgadłem hasło do ostatniego zadania
+
+$ 7z x Zadanie\ 9.zip -p"THE LADY VAIN WAS LOST"
+
+

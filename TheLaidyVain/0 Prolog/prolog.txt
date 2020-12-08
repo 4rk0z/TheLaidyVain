@@ -1,0 +1,132 @@
+The Lady Vain, czyli dziwny CTF od Biura Teleinformatyki CBA
+
+Wstęp
+W dniu 29.05.2019 r., w godzinach popołudniowych na stronie
+Biuletynu Informacji Publicznej Centralnego Biura Antykorupcyjnego
+pojawiło się tajemnicze zadanie opatrzone numerem 2.
+Na link natrafiłem przypadkiem, i wciągnęło mnie.
+Zadania należą do znienawidzonej "przez wielu" kategorii "co autor miał na myśli?"
+Wymagają dozy pomysłowości, spostrzegawczości oraz czasami łutu szczęścia.
+Zadania rozwiązywałem w wolnym czasie, lub wracałem do nich gdy wpadłem na jakiś pomysł
+ich rozwiązania. W wielu miejscach wydawało się niemożliwym, by pójść do przodu (brak
+jakichkolwiek wskazówek), jednak wrodzona dociekliwość wzięła górę.
+
+Zapraszam do lektury,
+arkoz
+
+Zadanie rozpoczyna się od pobrania pliku Lady_Vain.zip
+Rozpocząłem od określenia typu informacji zawartych w pliku. Użyłem do tego celu standardowego narzędzia file.
+
+$ file Lady_Vain.zip
+Lady_Vain.zip: Zip archive data, at least v1.0 to extract
+
+Archiwum zip okazało się zgodnie z rozszerzeniem pliku.
+Przeszukałem archiwum pod kątem dodatkowej warstwy danych.
+
+$ binwalk Lady_Vain.zip
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Zip archive data, at least v1.0 to extract, compressed size: 619201, uncompressed size: 619201, name: Lady_Vain.jpg
+619339        0x9734B         End of Zip archive, footer length: 22
+
+Nic szczególnego. Wypakowałem archiwum.
+
+$ unzip Lady_Vain.zip
+Archive:  Lady_Vain.zip
+ extracting: Lady_Vain.jpg
+
+ $ binwalk Lady_Vain.jpg
+
+ DECIMAL       HEXADECIMAL     DESCRIPTION
+ --------------------------------------------------------------------------------
+ 0             0x0             JPEG image data, JFIF standard 1.01
+ 30            0x1E            TIFF image data, big-endian, offset of first image directory: 8
+ 181574        0x2C546         7-zip archive data, version 0.4
+
+Do obrazu JPEG/TIFF doklejono obraz TIFF oraz archiwum 7z (offsety)
+Wydobyłem archiwum 7z za pomocą dd
+
+$ dd if=Lady_Vain.jpg skip=181574 bs=1 of=tajemnicze_archiwum.7z
+437627+0 przeczytanych rekordów
+437627+0 zapisanych rekordów
+skopiowane 437627 bajtów (438 kB, 427 KiB), 1,73408 s, 252 kB/s
+
+$ 7z l tajemnicze_archiwum.7z
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=pl_PL.utf8,Utf16=on,HugeFiles=on,64 bits,4 CPUs Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz (406E3),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 437627 bytes (428 KiB)
+
+Listing archive: tajemnicze_archiwum.7z
+
+--
+Path = tajemnicze_archiwum.7z
+Type = 7z
+Physical Size = 437627
+Headers Size = 395
+Method = Copy 7zAES
+Solid = -
+Blocks = 9
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2019-05-29 15:13:08 ....A         8409         8416  Zadanie 1.zip
+2019-05-29 15:13:00 ....A         4920         4928  Zadanie 2.zip
+2019-05-29 15:15:04 ....A          810          816  Zadanie 3.zip
+2019-05-29 15:15:16 ....A       383910       383920  Zadanie 4.zip
+2019-05-29 15:15:24 ....A          434          448  Zadanie 5.zip
+2019-05-29 15:15:34 ....A        14516        14528  Zadanie 6.zip
+2019-05-29 15:15:48 ....A         8656         8656  Zadanie 7.zip
+2019-05-29 15:16:08 ....A        15091        15104  Zadanie 8.zip
+2019-05-29 15:16:20 ....A          402          416  Zadanie 9.zip
+------------------- ----- ------------ ------------  ------------------------
+2019-05-29 15:16:20             437148       437232  9 files
+
+Wiem już, że na "śmiałków" czeka 9 zadań.
+Niestety archiwum zostało zaszyfrowane algorytmem AES przy użyciu hasła, którego jeszcze nie znam.
+Dłuższą chwilę zajęło mi bezowocne przeszukiwanie plików pod kątem dodatkowych informacji.
+Ponieważ dotychczasowe starania nie ujawniły hasła, sprawdziłem w google frazę "Lady Vain" file:txt
+Moją uwagę przykuła książka Herberta Georgea Wellsa pt. "The Island of Doctor Moreau"
+https://en.wikisource.org/wiki/The_Island_of_Doctor_Moreau/Chapter_1
+Tytuł książki jako hasło?
+
+$ 7z x tajemnicze_archiwum.7z -p"The Island of Doctor Moreau"
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=pl_PL.utf8,Utf16=on,HugeFiles=on,64 bits,4 CPUs Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz (406E3),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 437627 bytes (428 KiB)
+
+Extracting archive: tajemnicze_archiwum.7z
+--
+Path = tajemnicze_archiwum.7z
+Type = 7z
+Physical Size = 437627
+Headers Size = 395
+Method = Copy 7zAES
+Solid = -
+Blocks = 9
+
+Everything is Ok
+
+Files: 9
+Size:       437148
+Compressed: 437627
+
+$ ls -w 1
+ Lady_Vain.jpg
+ Lady_Vain.zip
+ tajemnicze_archiwum.7z
+'Zadanie 1.zip'
+'Zadanie 2.zip'
+'Zadanie 3.zip'
+'Zadanie 4.zip'
+'Zadanie 5.zip'
+'Zadanie 6.zip'
+'Zadanie 7.zip'
+'Zadanie 8.zip'
+'Zadanie 9.zip'

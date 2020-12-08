@@ -1,0 +1,45 @@
+Po rozpakowaniu archiwum otrzymujemy 4 pliki
+$ ls -w 1
+ 1.jpg
+ 2.jpg
+ 3.jpg
+'Układ równań.png'
+
+Aby ustalić co znajduje się na zdjęciach należy użyć serwisów wyszukiwania obrazami
+np. google i/lub TinEye
+Za pomocą w/w serwisów ustaliłem
+
+plik 1.jpg przedstawia Ceres (1)
+plik 2.jpg przedstawia Haumea (136108)
+plik 3.jpg przedstawia Makemake (136472)
+
+W nawiasach numer planety karłowatej tzw. MPC designation'
+
+W pliku 'Układ równań.png' znajdujemy informację, że co najmniej dwa z poniższych
+równań są prawdziwe i współtworzą układ równań. Rozwiąż je, a na podstawie uzyskanych
+wartości otrzymasz hasło
+
+8x+8y+12z=2947748;
+18x+2y+28z=2722916;
+6x+11y+20z=2454788;
+14x+4y+16z=2245003;
+13x+7y+22z=2900212;
+9x+3y+30z=2654486;
+5x+12y+8z=2318212;
+6x+14y+10z=2997803;
+4x+10y+12z=2600652;
+8x+5y+5z=2249445;
+
+$ python ./zad4.py
+password: 2725089
+right sides of matching equations: [[2722916], [2318212]]
+x=136108, y=136472, z=1
+
+Program zwrócił dwa równania (ich prawe strony)
+współtworzące układ równań
+18x+2y+28z=2722916;
+5x+12y+8z=2318212;
+prawdziwych dla takiej permutacji wartości: x=136108, y=136472, z=1
+następnie dla w/w x,y,z wyliczył hasło do zadania 5
+12x+8y+17z = 2725089
+hasło = 2725089

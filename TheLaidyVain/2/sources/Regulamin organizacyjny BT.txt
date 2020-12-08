@@ -1,0 +1,150 @@
+﻿ZARZĄDZENIE NR 1/19
+SZEFA CENTRALNEGO BIURA ANTYKORUPCYJNEGO
+z dnia 4 styczniа 2019 r.
+w sprawie regulaminu organizаcyjnego Biura Teleinformаtyki
+Centralnego Biurа Antykorupcyjnego
+
+Nа podstawie art. 11 ust. 2 ustаwy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym
+(Dz. U. z 2018 r. poz. 2104 i 2399) zаrządzа się, co nаstępuje:
+
+§ 1. Biuru Teleinformatyki Centrаlnego Biurа Antykorupcyjnego, zwаnemu dalej „Biurem”, nаdаje się regulamin organizacyjny, określający jego:
+1) strukturę orgаnizacyjną;
+2) orgаnizаcję kierowаnia i funkcje;
+3) zadаnia komórek organizаcyjnych.
+
+§ 2. W skłаd Biura wchodzą następujące komórki orgаnizacyjne:
+1) Wydział I, w którego strukturze znajduje się:
+a) Zespół A – progrаmiści,
+b) Zespół B – kierownicy projektów teleinformatycznych;
+2) Wydział II, w którego strukturze znajduje się:
+a) Zespół A – administratorzy centrаlnych systemów teleinformatycznych,
+b) Zespół B – аdministratorzy systemów teletransmisyjnych oraz łączności;
+3) Wydział III, w którego strukturze znajduje się:
+а) Zespół A – specjаliści wspаrcia help-desk oraz obsługi systemów specjаlnych;
+b) Zespół B – specjaliści ewidencji, zaopаtrzeniа teleinformatycznego i telefonii komórkowej;
+c) Zespół C – specjaliści gospodаrki depozytowej sprzętu i materiаłów teleinformatycznych;
+4) Zespół Bezpieczeństwа;
+5) Zespół Administrаcyjny.
+
+§ 3. 
+1. Dyrektor Biura kieruje Biurem przy pomocy kierowników komórek orgаnizаcyjnych, o których mowа w § 2 pkt 1 - 3, a w szczególności dokonuje podziału prаcy i nаdzoruje wykonanie poszczególnych zadаń oraz ocenia pracę podległych funkcjonаriuszy i prаcowników.
+2. W przypadku nieobecności dyrektorа Biura zastępuje go kierownik komórki orgаnizacyjnej, o której mowа w § 2 pkt 2, lub wyznаczony przez dyrektora Biura funkcjonariusz.
+
+§ 4. 
+1. Kierownicy komórek orgаnizаcyjnych, kierują ich pracаmi i są odpowiedziаlni za prаwidłową realizаcję ich zаdań.
+2. W czasie nieobecności kierownika komórki jego zadania wykonuje wskazany przez niego funkcjonariusz lub pracownik.
+
+§ 5.
+1. Do zadań Wydziału I należy organizacja i rozwój systemów teleinformatycznych w Centralnym Biurze Antykorupcyjnym, zwanym dalej „CBA”, a w szczególności:
+1) określanie, na podstawie wymagań użytkowników, kierunków rozwoju oraz założeń i zadań inwestycyjnych w zakresie wdrażania w CBA nowych technologii, systemów i usług teleinformatycznych;
+2) określanie zasad organizacji i użytkowania systemów teleinformatycznych planowanych do wdrożenia i eksploatowanych w CBA;
+3) przygotowywanie koncepcji wdrażania rozwiązań teleinformatycznych w CBA;
+4) przygotowywanie, na podstawie przygotowanych założeń, koncepcji i oczekiwań użytkowników, specyfikacji wymagań technicznych na systemy, sprzęt i usługi teleinformatyczne;
+5) nadzór autorski i merytoryczny nad wdrożonymi systemami teleinformatycznymi CBA;
+6) współdziałanie z jednostkami i komórkami organizacyjnymi CBA oraz instytucjami zewnętrznymi w zakresie realizowanych przedsięwzięć.
+2. W zakresie właściwości Wydziału I, do zadań Zespołu A należy ponadto:
+1) wykonywanie prac programistycznych oraz udział we wszystkich etapach tworzenia aplikacji;
+2) sporządzanie, aktualizowanie oraz realizacja zapisów zawartych w niezbędnych instrukcjach i wytycznych;
+3) przygotowywanie i utrzymywanie środowisk programistycznych, testowych i szkoleniowych oraz przygotowywanie środowisk produkcyjnych;
+4) współpraca z Zespołem B przy realizacji projektów i przedsięwzięć teleinformatycznych.
+3. W zakresie właściwości Wydziału I, do zadań Zespołu B należy ponadto:
+1) planowanie, organizowanie i monitorowanie działań związanych z realizowanymi i planowanymi
+projektami i przedsięwzięciami teleinformatycznymi;
+2) stosowanie standardów prowadzenia projektów i przedsięwzięć teleinformatycznych w CBA;
+3) analiza celów projektowych i alternatywnych rozwiązań we współpracy z Zespołem A;
+4) ustalanie harmonogramu wdrożeń systemów i aplikacji;
+5) przygotowywanie koncepcji wdrażania rozwiązań teleinformatycznych w CBA;
+6) sporządzanie specyfikacji wymagań technicznych oraz wniosków zakupowych na systemy, sprzęt i usługi teleinformatyczne, na podstawie przygotowanych i uzgodnionych założeń, koncepcji i oczekiwań użytkowników.
+
+§ 6.
+1. Do zadań Wydziału II należy utrzymanie systemów teleinformatycznych, a w szczególności:
+1) zapewnienie ciągłości działania administrowanych systemów;
+2) realizacja wytycznych sformułowanych w dokumentacji i politykach bezpieczeństwa obowiązujących w CBA;
+3) opracowywanie i przestrzeganie ustalonych procedur eksploatacji oraz bieżące dokumentowanie czynności administracyjnych, a także zarządzanie zmianami w dokumentacji systemów.
+2. W zakresie właściwości Wydziału II, do zadań Zespołu A należy ponadto administrowanie:
+1) serwerami, systemami operacyjnymi i bazami danych centralnych systemów teleinformatycznych przetwarzających informacje pozyskiwane w ramach ustawowych działań CBA;
+2) serwerami, systemami operacyjnymi i bazami danych systemów wspomagających czynności służbowe;
+3) pocztą elektroniczną i witrynami internetowymi CBA.
+3. W zakresie właściwości Wydziału II, do zadań Zespołu B należy ponadto administrowanie:
+1) systemami teletransmisyjnymi eksploatowanymi w CBA, w tym sieciami lokalnymi w obiektach centralnych, siecią rozległą CEBWAN, węzłami dostępowymi do podmiotów zewnętrznych;
+2) centralnym węzłem dostępowym do sieci Internet;
+3) głównym węzłem łączności przewodowej.
+
+§ 7. 
+1. Do zadań Wydziału III należy wsparcie techniczne i obsługa funkcjonariuszy i pracowników CBA.
+2. W zakresie właściwości Wydziału III , do zadań Zespołu A należy:
+1) wsparcie funkcjonariuszy i pracowników CBA w zakresie obsługi incydentów wynikających z problemów w działaniu sprzętu teleinformatycznego;
+2) obsługa i konserwacja sprzętu teleinformatycznego;
+3) administrowanie stacjami dostępowymi do jawnych zewnętrznych banków danych;
+4) administrowanie systemami Bezpiecznych Stanowisk Komputerowych;
+5) administrowanie stacjami dostępowymi do niejawnych zewnętrznych banków danych;
+6) obsługa niejawnych systemów łączności specjalnej;
+7) doraźna realizacja i konserwacja instalacji teleinformatycznych w obiektach centralnych CBA.
+3. W zakresie właściwości Wydziału III, do zadań Zespołu B należy:
+1) obsługa i rozliczanie usług w zakresie eksploatacji urządzeń abonenckich łączności komórkowej;
+2) opracowywanie koncepcji i wniosków zakupowych w zakresie sprzętu, oprogramowania, materiałów
+i wyposażenia teleinformatycznego;
+3) realizacja zakupów sprzętu, oprogramowania, materiałów i wyposażenia teleinformatycznego;
+4) opracowywanie, wdrażanie oraz realizacja procedur w zakresie właściwości merytorycznej Wydziału III;
+4. W zakresie właściwości Wydziału III, do zadań Zespołu C należy prowadzenie gospodarki materiałowej w zakresie wyposażenia teleinformatycznego, a w szczególności:
+1) obsługa depozytu sprzętu, materiałów i wyposażenia teleinformatycznego oraz dystrybucja składników majątku teleinformatycznego CBA;
+2) przyjmowanie materiałów dostarczonych do depozytu, ustalenie ilości przyjmowanych materiałów, weryfikacja i kontrola rzeczy przyjmowanych na depozyt;
+3) monitorowanie i prognozowanie potrzeb w zakresie wyposażenia jednostek organizacyjnych CBA w sprzęt, materiały i wyposażenie teleinformatycznego.
+
+§ 8. Do zadań Zespołu Bezpieczeństwa należy:
+1) szacowanie ryzyka wystąpienia incydentu, polegające na identyfikacji, analizie i ocenie ryzyka dla systemów, urządzeń i usług wdrażanych i utrzymywanych w Biurze;
+2) klasyfikowanie na podstawie szacowania systemów i usług teleinformatycznych do określonej grupy i kategorii ryzyka;
+3) opracowywanie metod i dobór środków zabezpieczeń organizacyjnych i technicznych dla określonych grup i kategorii ryzyka;
+4) opracowywanie, wdrażanie, dokumentowanie i utrzymywanie planów działania umożliwiających ciągłe i niezakłócone działanie systemów i usług utrzymywanych w Biurze;
+5) opracowywanie, testowanie i przekazywanie rekomendacji do wdrożenia dla konfiguracji programowosprzętowej systemów i usługi wdrażanych i utrzymywanych w Biurze;
+6) zbieranie w trybie ciągłym informacji o zagrożeniach cyberbezpieczeństwa i monitoring w zakresie podatności na incydenty systemów i usług utrzymywanych w Biurze;
+7) wyznaczanie i opracowywanie wytycznych w zakresie zaleceń, standardów dla systemów, usług i urządzeń teleinformatycznych CBA,
+8) zarządzanie incydentami poprzez ich obsługę, wyszukiwanie powiązań pomiędzy incydentami, usuwanie przyczyn ich wystąpienia oraz opracowywanie wniosków z obsługi incydentu;
+9) opracowywanie środków ograniczających wpływ incydentów na bezpieczeństwo systemów informatycznych utrzymywanych w Biurze oraz zapobieganie im, w tym:
+a) opracowanie mechanizmów zapewniających poufność, integralność i autentyczność danych przetwarzanych w systemach informatycznych utrzymywanych w Biurze,
+b) dbanie o aktualizację oprogramowania poprzez testowanie poprawek, łat i pakietów aktualizacyjnych, określanie ich wpływu na zapewnienie ciągłości działania systemów i usług utrzymywanych w Biurze oraz przekazywanie rekomendacji do ich wdrożenia,
+c) niezwłoczne podejmowanie działań po dostrzeżeniu zagrożeń cyberbezpieczeństwa, przy współpracy z właściwymi komórkami Biura oraz właściwą komórką Departamentu Ochrony CBA;
+10) bieżąca współpraca z właściwą komórką Departamentu Ochrony CBA w zakresie bezpieczeństwa informacji przetwarzanych w systemach wdrażanych i utrzymywanych w Biurze;
+11) opracowywanie, wdrożenie i aktualizowanie procedur bezpieczeństwa teleinformatycznego systemów i usług wdrażanych i utrzymywanych w Biurze;
+12) opracowywanie rekomendacji dotyczącej współpracy z podmiotami zewnętrznymi w zakresie utrzymania ciągłości działania systemów i usług teleinformatycznych oraz dostaw;
+13) opracowywanie rekomendacji i uzasadnień dotyczących trybów udzielania zamówień publicznych w zakresie dostaw i usług teleinformatycznych z uwzględnieniem zapewnienia bezpieczeństwa przetwarzanych informacji oraz metod i środków pracy wykorzystywanych w CBA;
+14) gromadzenie i analiza informacji mogących mieć wpływ na bezpieczeństwo systemów teleinformatycznych wdrażanych i utrzymywanych w Biurze, przy wykorzystaniu ogólnie dostępnych źródeł.
+
+§ 9. Do zadań Zespołu Administracyjnego należy obsługa organizacyjno-administracyjna i finansowa Biura, a w szczególności:
+1) realizacja zadań związanych z zapewnieniem właściwej organizacji i ciągłości pracy Biura;
+2) wykonywanie obsługi kancelaryjnej i realizacja zadań związanych z zapewnieniem właściwej rejestracji i obiegu dokumentacji jawnej;
+3) administrowanie systemem Elektroniczny Dziennik Korespondencyjny;
+4) prowadzenie obsługi kancelaryjnej dokumentów niejawnych;
+5) obsługa kadrowa funkcjonariuszy i pracowników Biura, w tym w szczególności prowadzenie ewidencji spraw osobowych, aktualizowanie danych w systemie NIWA w zakresie absencji funkcjonariuszy i pracowników Biura;
+6) obsługa logistyczna Biura w zakresie wyposażenia w sprzęt i materiały biurowe, prowadzenia ewidencji uprawnień do pomieszczeń, pieczęci, kluczy i referentek oraz pojazdów służbowych,
+7) opiniowanie aktów prawnych w zakresie właściwości Biura;
+8) koordynowanie przedsięwzięć szkoleniowych z udziałem funkcjonariuszy i pracowników Biura;
+9) współdziałanie z innymi jednostkami organizacyjnymi;
+10) planowanie, monitorowanie i koordynowanie wykonania planu budżetu oraz planu zamówień publicznych we współpracy z Biurem Finansów CBA;
+11) realizowanie, zgodnie z właściwością Biura, zatwierdzonych zapotrzebowań na dostawy oraz usługi na rzecz jednostek organizacyjnych CBA, o wartości nieprzekraczającej kwoty wyrażonej w art. 4 pkt
+8 ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215);
+12) obsługa formalna i organizacyjna projektów Biura;
+13) wsparcie dyrektora Biura w organizacji kontroli zarządczej oraz prowadzenie dokumentacji związanej z zarządzaniem ryzykiem;
+14) pozyskiwanie informacji oraz stałe monitorowanie możliwości dofinansowania przedsięwzięć realizowanych przez Biuro ze środków unijnych oraz innych zewnętrznych źródeł finansowania;
+15) pozyskiwanie kandydatów do służby/pracy w Biurze oraz współpraca z Biurem Kadr i Szkolenia w zakresie ich rekrutacji.
+
+§ 10. Do zakresu zadań komórek organizacyjnych Biura i zespołów, o których mowa w § 2, należy ponadto:
+1) udział w planowaniu i monitorowaniu wydatkowania budżetu Biura;
+2) opracowywanie koncepcji i wniosków dotyczących zakupów w zakresie właściwości merytorycznej Biura;
+3) udział w pracach zespołów projektowych;
+4) ocena nowych rozwiązań i technologii teleinformatycznych w zakresie ich przydatności w toku realizacji zadań ustawowych CBA;
+5) analiza i ocena koncepcji, programów oraz propozycji organizacyjno-rozwojowych i przedsięwzięć racjonalizatorskich;
+6) opiniowanie aktów prawnych w zakresie właściwości komórek organizacyjnych;
+7) współdziałanie z jednostkami organizacyjnymi CBA oraz instytucjami zewnętrznymi w zakresie realizowanych przedsięwzięć;
+8) udział w pracach komisji, zespołów i grup eksperckich powołanych przez Szefa CBA lub na mocy zawartych porozumień z instytucjami zewnętrznymi;
+9) udział w przedsięwzięciach i programach realizowanych przez instytucje rządowe lub pozarządowe;
+10) prowadzenie szkoleń wynikających z potrzeb w zakresie właściwości merytorycznej Biura;
+11) wykonywanie innych zadań wynikających z bieżących poleceń Szefa CBA i jego zastępców, dyrektora
+Biura oraz kierowników komórek organizacyjnych.
+
+§ 11. Traci moc zarządzenie nr 29/10 Szefa Centralnego Biura Antykorupcyjnego z dnia 22 października 2010 r. w sprawie regulaminu organizacyjnego Biura Teleinformatyki Centralnego Biura Antykorupcyjnego (Dz. Urz. CBA Nr 2, poz. 56, z 2012 r. poz. 31, z 2014 r. poz. 16 oraz z 2015 r. poz. 21).
+
+§ 12. Zarządzenie wchodzi w życie z dniem 15 stycznia 2019 r.
+
+Szef Centralnego Biura Antykorupcyjnego
+Ernest Bejda
