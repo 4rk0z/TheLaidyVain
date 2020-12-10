@@ -131,4 +131,4 @@ $ ls -w 1
 'Zadanie 8.zip'
 'Zadanie 9.zip'
 
- [Zadanie 1](https://github.com/4rk0z/TheLaidyVain/blob/main/TheLaidyVain/1/zad1.txt)
+[Zadanie 1](../1/)
