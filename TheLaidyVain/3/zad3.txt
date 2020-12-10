@@ -2,7 +2,7 @@ Otrzymujemy plik Program.cs z nie działającym prototypem kodu.
 W kodzie brakuje funkcji szyfrującej, mamy natomiast docelowy klucz szyfrujący
 wraz z docelowym hasłem.
 W pliku pozostawiono też dodatkowe informacje jak testowy plaintex, testowy klucz,
-oraz testowy szyfrogram).
+oraz testowy szyfrogram.
 Na podstawie tych informacji należy odtworzyć/złamać metodę szyfrowania oraz
 napisać dla niej procedurę deszyfrującą "CustomSipher"
 W nagrodę otrzymujemy hasło do zadania 4
