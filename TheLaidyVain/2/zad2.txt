@@ -18,8 +18,8 @@ Przy bardziej wnikliwym oglądaniu zauważyłem, że niektóre litery a mają in
 kodowanie. Raz są kodowane za pomocą \x61 innym razem  jako \xD0\xB0
 (U+0430	а	d0 b0	&#1072;	а	CYRILLIC SMALL LETTER A)
 
-Napisałem więc krótki program, wyłuskujący z pliku z "Regulaminem" odpowiednie
-znaki oraz zamieniający je odpowiednio na 0 oraz 1.
+Napisałem więc krótki program w python wyłuskujący z pliku z 
+"Regulaminem" odpowiednie znaki oraz zamieniający je odpowiednio na 0 oraz 1.
 
 lub szybciej wykorzystując perl oraz powłokę bash
 
