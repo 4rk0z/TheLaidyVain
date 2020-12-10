@@ -131,4 +131,4 @@ $ ls -w 1
 'Zadanie 8.zip'
 'Zadanie 9.zip'
 
-[Zadanie 1](../1/zad1.txt)
+[Zadanie 1](TheLaidyVain/tree/main/TheLaidyVain/1)
